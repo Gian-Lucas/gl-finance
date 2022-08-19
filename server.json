@@ -55,6 +55,14 @@
       "type": "outcome",
       "createdAt": "2022-08-18T18:36:55.386Z",
       "id": 7
+    },
+    {
+      "description": "Viagem EUA",
+      "price": 10000,
+      "category": "Viagem",
+      "type": "outcome",
+      "createdAt": "2022-08-19T00:05:27.854Z",
+      "id": 8
     }
   ]
 }
